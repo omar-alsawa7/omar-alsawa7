@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" />
   </a>
 </p>
+![](https://hit.yhype.me/github/profile?account_id=1849174)
 
 <br>
 
@@ -53,3 +54,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
+
