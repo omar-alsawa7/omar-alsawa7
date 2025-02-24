@@ -3,8 +3,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" />
   </a>
 </p>
-![](https://hit.yhype.me/github/profile?account_id=1849174)
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/omar-alsawa7/github-profile-views-counter
 
+![](https://hit.yhype.me/github/profile?account_id=1849174)
 <br>
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> About Me
