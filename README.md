@@ -13,7 +13,7 @@
 <img align="right" src="https://github.com/omar-alsawa7/omar-alsawa7/blob/main/Images/Right_Side.gif?raw=true" width="30%">
 
 - 👨‍💻 Software Development Engineer
-- :computer: Competitive programmer at [Codeforces](https://codeforces.com/profile/your_handle), [AtCoder](https://atcoder.jp/users/your_handle)
+- :computer: Competitive programmer at Codeforces,AtCoder
 - ✍🏻 Passionate about solving problems through software solutions
 - 🤓 Constantly learning new technologies
 - 🚀 Open source contributor
@@ -29,7 +29,7 @@
   <a href="https://github.com/omar-alsawa7">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
